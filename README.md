@@ -1,6 +1,6 @@
 - 📚 3º período - Sistemas de Informação...
 - 🎓 Curso Técnico em Informática.
-- 📧 kennedybrazevedo@gmail.com
+- 📧 kennedy.azevedo@univale.br
 
 <picture>
   <source
