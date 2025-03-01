@@ -7,7 +7,7 @@
 <ul>
 <li>Atualmente estudando Kotlin, utilizando compose para android</li>
 <li>Ultimamente focando em conhecer melhor os métodos agéis</li>
-<li>Já tive experiência em linguagens como Java, C#, Typescript, PHP</li>
+<li>Já tive experiência em linguagens como Java, C#, Typescript(NestJs), PHP</li>
 <li>Já tiver experiência com Docker</li>
 <li>Já tive experiência em bancos de dados MySQL e PostgreSQL</li>
 </ul>
