@@ -1,5 +1,5 @@
 
-- 📚 4º período - Sistemas de Informação...
+- 📚 5º período - Sistemas de Informação...
 - 🎓 Curso Técnico em Informática.
 - 📧 kennedybrazevedo@gmail.com
 
