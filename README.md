@@ -5,10 +5,10 @@
 
 <h2>Sobre</h2>
 <ul>
-<li>Atualmente programando em JavaScript/TypeScript, utilizando o framework NestJS</li>
-<li>Trabalhando com o componente ACBRLib</li>
-<li>Estou me aperfeiçoando em HTML/CSS</li>
-<li>Já tive experiência em linguagens como Java, C#</li>
+<li>Atualmente estudando Kotlin, utilizando compose para android</li>
+<li>Ultimamente focando em conhecer melhor os métodos agéis</li>
+<li>Já tive experiência em linguagens como Java, C#, Typescript, PHP</li>
+<li>Já tiver experiência com Docker</li>
 <li>Já tive experiência em bancos de dados MySQL e PostgreSQL</li>
 </ul>
 
